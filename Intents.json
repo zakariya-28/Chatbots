@@ -1,0 +1,38 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "cj1xuVPw_bZd"
+      },
+      "outputs": [],
+      "source": [
+        "{\n",
+        "  \"intents\": [\n",
+        "    {\n",
+        "      \"tag\": \"greeting\",\n",
+        "      \"patterns\": [\"hi\", \"hello\", \"hey\", \"good morning\", \"good day\"],\n",
+        "      \"responses\": [\"Hello!\", \"Hi there!\", \"Hey! How can I help?\"]\n",
+        "    },\n",
+        "    ... (baaki saare tags)\n",
+        "  ]\n",
+        "}"
+      ]
+    }
+  ]
+}
